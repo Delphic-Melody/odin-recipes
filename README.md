@@ -1,0 +1,1 @@
+Recipe website designed to help build the requisite web development skills as part of The Odin Project.
