@@ -8,5 +8,12 @@ p {
 body {
     text-align: center;
     background-color: hsl(220deg, 23%, 95%);
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+ul,
+ol,
+li {
+    text-align: center;
 }
