@@ -17,3 +17,9 @@ ol,
 li {
     text-align: center;
 }
+
+.recipe {
+    height: auto;
+    width: 400px;
+    margin: 5px;
+}
